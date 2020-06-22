@@ -1,0 +1,22 @@
+{
+  "levels": 2,
+  "cacheConfigurations":
+  [
+    {
+      "level": 1,
+      "capacity": 10,
+      "readTime": 3,
+      "writeTime":5
+
+    },
+
+    {
+      "level": 2,
+      "capacity": 30,
+      "readTime": 5,
+      "writeTime":8
+
+    }
+
+  ]
+}
