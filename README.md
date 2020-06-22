@@ -24,3 +24,8 @@ c) What is the average write time of this Multi-Level Cache System for last 10 W
 
 Implementing Bonus part is optional but candidates who implement this part would be rated higher.
 
+
+## Deign Pattern 
+1. Decorators to emit logs to metric generators
+2. Observer to register and notify metric generators
+
